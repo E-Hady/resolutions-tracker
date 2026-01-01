@@ -1,6 +1,8 @@
 # 🎯 2026 New Year Resolutions Tracker
 
 A full-stack web application to track your goals, resolutions, and daily habits for 2026.
+<img width="1850" height="968" alt="image" src="https://github.com/user-attachments/assets/8f8c1b2c-cbbe-467d-a2d6-364958c5f7fa" />
+
 
 ![React](https://img.shields.io/badge/React-18.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0-green)
